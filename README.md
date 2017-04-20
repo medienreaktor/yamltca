@@ -38,7 +38,7 @@ __Configuration/TCA/your_table.yaml__
           label: 'Subheader'
           ...
 
-TCA will automatically generated upon your YAML files (clear all caches). You are free to mix and match between TCA in PHP and TCA in YAML files.
+TCA will automatically be generated upon your YAML files (please clear all caches after changes to these files). You are free to mix and match between TCA in PHP and TCA in YAML files.
 
 ### Generate TCA-overrides
 
