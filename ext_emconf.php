@@ -1,7 +1,7 @@
 <?php
 $EM_CONF[$_EXTKEY] = [
     'title' => 'YAML TCA',
-    'description' => 'Use YAML files for TCA generation.',
+    'description' => 'Generate TCA (Table Configuration Array) from YAML files.',
     'category' => 'be',
     'state' => 'experimental',
     'version' => '0.1.0',

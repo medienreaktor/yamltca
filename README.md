@@ -1,6 +1,6 @@
 # TYPO3 Extension ``yamltca``
 
-TYPO3 extension for generating TCA (Table Configuration Array) from YAML files.
+Generate TCA (Table Configuration Array) from YAML files.
 
 __Notice:__ This is just a proof of concept. It works, but usage is experimental.
 
